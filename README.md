@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-I'm a Software Engineer, Customer support Expert, and Community Engineer who currently works as a Front-line Support at [PageFly page Builder in shopify](https://pagefly.io/). I'm passionate about sharing knowledge, documentation, web engineering,headless commerce, and others.
+I'm a Software Engineer, Customer support Expert, and Community Engineer. I'm passionate about sharing knowledge, documentation, web engineering,headless commerce, and others.
 
 **Here's a quick summary about me**:
 
